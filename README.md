@@ -20,6 +20,6 @@
 -   [Link Para Acessar o quadro no Trello.](https://trello.com/b/UZFHygLM/projeto-leds)
 
 ### 5. DIÁRIO DE BORDO<br>
--   [Link Para Acessar o documento no Drive.](https://1drv.ms/w/s!AsfHusfPLfUbbcuaD8jUe9baGZ4)
+-   [Link Para Acessar o documento no OneDrive.](https://1drv.ms/w/s!AsfHusfPLfUbgzdPO_PC2ODOI0wR)
 
 ### 6.PROTÓTIPOS DO SISTEMA(MOCKUPS)<br>
